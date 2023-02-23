@@ -1,0 +1,7 @@
+# Project exclude paths
+/arraylist/target/
+/equalshashcode/target/
+/map/map/target/
+/queue/target/
+/set/target/
+/stack/target/
